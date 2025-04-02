@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">ProvaPratica_Mobile</string>
-</resources>
+        <string name="app_name">ProvaPratica_Mobile</string>
+
+        <string-array name="book_categories">
+            <item>Ficção</item>
+            <item>Técnico</item>
+            <item>Autoajuda</item>
+            <item>Terror</item>
+            <item>História</item>
+            <item>Tecnologia</item>
+        </string-array>
+    </resources>
+

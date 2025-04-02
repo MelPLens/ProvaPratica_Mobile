@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProvaPratica_Mobile</string>
+    <string name="title">Book Title</string>
+    <string name="author">Book Author</string>
+    <string name="category">Category</string>
+    <string name="read_status">I have read this book</string>
+    <string name="save_book">Save Book</string>
+
+    <string-array name="book_categories">
+        <item>Fiction</item>
+        <item>Technical</item>
+        <item>Self-help</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Biography</item>
+    </string-array>
+</resources>

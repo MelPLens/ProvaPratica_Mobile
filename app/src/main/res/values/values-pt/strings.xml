@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProvaPratica_Mobile</string>
+    <string name="title">Título do Livro</string>
+    <string name="author">Autor do Livro</string>
+    <string name="category">Categoria</string>
+    <string name="read_status">Já li este livro</string>
+    <string name="save_book">Salvar Livro</string>
+
+    <!-- Categorias do Spinner -->
+    <string-array name="book_categories">
+        <item>Ficção</item>
+        <item>Técnico</item>
+        <item>Autoajuda</item>
+        <item>Fantasia</item>
+        <item>História</item>
+        <item>Biografia</item>
+    </string-array>
+</resources>
